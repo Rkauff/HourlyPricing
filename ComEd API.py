@@ -86,12 +86,6 @@ NOTES AND OTHER UNUSED STUFF
 #        fives = False
 #    return fives
 
-#Gets the current hour
-#def get_hour():
-#    hour = (time.strftime('%H'))
-#    hour = int(hour)
-#    return hour
-    #print(hour)
 
 
 '''
